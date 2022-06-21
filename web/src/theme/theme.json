@@ -1,0 +1,16 @@
+{
+    "light": {
+        "background": "#fff",
+        "text": "#222",
+        "secondaryText": "#666",
+        "button": "#ddd",
+        "hoverButton": "#bbb"
+    },
+    "dark": {
+        "background": "#333",
+        "text": "#fff",
+        "secondaryText": "#aaa",
+        "button": "#444",
+        "hoverButton": "#555"
+    }
+}

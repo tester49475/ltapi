@@ -1,0 +1,54 @@
+.absolute-centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
+
+.br5-p9-btn {
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.right-align-btn {
+    border-radius: 5px;
+    padding: 8px;
+    margin: 0 0 0 auto;
+}
+
+.absolute-positioned {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.default-cursor {
+    cursor: default;
+}
+
+.br-5-p-9 {
+    border-radius: 5px;
+    padding: 8px;
+}
+
+.br-5-p-18 {
+    border-radius: 5px;
+    padding: 16px;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+.match-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.hide {
+    display: none;
+}
+
+.password-input {
+    -webkit-text-security: disc;
+}

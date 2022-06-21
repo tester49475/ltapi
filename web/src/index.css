@@ -1,0 +1,22 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    font-family: 'monospace';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: "monospace"
+}
+
+input:focus::placeholder {
+    color: transparent;
+}
+
+p {
+    box-sizing: border-box;
+}
